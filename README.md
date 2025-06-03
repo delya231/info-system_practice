@@ -1,1 +1,1 @@
-# info-system_practice
+# диаграмма use-case
