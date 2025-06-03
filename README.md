@@ -1,1 +1,1 @@
-# info-system_practice
+# IDEF0 диаграмма
