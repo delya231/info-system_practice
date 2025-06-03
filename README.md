@@ -1,1 +1,1 @@
-# info-system_practice
+# Декомпозиция IDEF0 диаграммы 1 уровня.
